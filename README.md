@@ -28,7 +28,7 @@ This Langing page project is the first in a series of projects that are required
 
 These files provide a skeleton for a static version of the Landing Page project. The major taks is to convert it from a static project to an interactive one.
 
-## Tasks%20Status%20and%20Completion
+## Tasks Status and Completion
 
 |  Feature                                    |   Condition  |     Status             |
 |---------------------------------------------|--------------|------------------------|
