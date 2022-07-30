@@ -1,12 +1,15 @@
 # Udacity Frontend project (Landing Page Project)
 
+
 [![Udacity's Logo](./assets/imgs/udacityLogo.svg)](https://www.udacity.com/)
+
+
 
 ## sponsored and funded by [egFWD](https://egfwd.com/) 
 
 [![egFWD - Future of Work is Digital](./assets/imgs/Egypt_fwd_logo-1.png)](https://egfwd.com/)
 
-<p style="text-align: center;"><em> Egypt Future Work is Digital </em></p>
+
 
 *author*: **Ahmed E. F. R. Mohammed**
 
@@ -25,7 +28,7 @@ This Langing page project is the first in a series of projects that are required
 
 These files provide a skeleton for a static version of the Landing Page project. The major taks is to convert it from a static project to an interactive one.
 
-## Tasks Status and Completion
+## Tasks%20Status%20and%20Completion
 
 |  Feature                                    |   Condition  |     Status     |
 |---------------------------------------------|--------------|----------------|
