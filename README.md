@@ -1,32 +1,41 @@
 # Udacity Frontend project (Landing Page Project)
-## sponsored and funded by egFWD (_Egypt Future Work is Digital_)
-
-_author_: **Ahmed E. F. R. Mohammed**
 
 
+## sponsored and funded by [egFWD](https://egfwd.com/) 
+(*Egypt Future Work is Digital*)
+
+[![egFWD - Future of Work is Digital](./assets/imgs/Egypt_fwd_logo-1.png)](https://egfwd.com/)
 
 
-|  Feature  |   Condition  |     Status    |
-|-----------|--------------|---------------|
-|  File Structure and Arcitecture     |   required   |   [x] done    |
-|  HTML Structure     |   required   |   [x] done    |
-|  Navigation     |   required   |   [x] done    |
-|  Section Active State     |   required   |   [x] done    |
-|  Comments     |   required   |   [x] done    |
-|  Code Quality, Formating and Refactoring     |   required   |   [x] done    |
-|  Hide Navigation bar when NOT Scrolling     |   Extra   |   [x] done    |
-|  Responsive Layout     |   Extra      |   [x] done    |
-|  Scroll to the top Button     |   Extra      |   [x] done    |
-|  Collapsable Sections     |   Extra      |   [ ] done    |
-|  Change Design/Content     |   Extra      |   [ ]     |
+*author*: **Ahmed E. F. R. Mohammed**
 
 
 * [Instructions](#instructions)
+* [Task Status and Completion](### Tasks Status and Completion)
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This Langing page project is the first in a series of projects that are required for the fulfilment of the Udacity Nano-Degree in Front-End Web development. The starter kit was provided by Udacity, that included the following:
 
-To get started, open `js/app.js` and start building out the app's functionality
+* index.html
+* css/styles.css
+* js/app/js
+* README.md
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+These files provide a skeleton for a static version of the Landing Page project. The major taks is to convert it from a static project to an interactive one.
+
+## Tasks Status and Completion
+
+|  Feature                                    |   Condition  |     Status    |
+|---------------------------------------------|--------------|---------------|
+|  File Structure and Arcitecture             |   required   |   [x] done    |
+|  HTML Structure                             |   required   |   [x] done    |
+|  Navigation                                 |   required   |   [x] done    |
+|  Section Active State                       |   required   |   [x] done    |
+|  Comments                                   |   required   |   [x] done    |
+|  Code Quality, Formating and Refactoring    |   required   |   [x] done    |
+|  Hide Navigation bar when NOT Scrolling     |   Extra      |   [x] done    |
+|  Responsive Layout                          |   Extra      |   [x] done    |
+|  Scroll to the top Button                   |   Extra      |   [x] done    |
+|  Collapsable Sections                       |   Extra      |   [x] done    |
+|  Change Design/Content                      |   Extra      |   [ ]         |

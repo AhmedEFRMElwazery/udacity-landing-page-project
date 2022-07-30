@@ -27,6 +27,7 @@ let navBarList = document.querySelector("#navbar__list");
 let headerBar = document.querySelector('.page__header');
 let heroSection = document.querySelector('.main__hero');
 let scrollToTopButton = document.querySelector("#scrollToTop")
+let collapsableHeadings = document.querySelectorAll('h2')
 let scrollingInactive;
 /**
  * End Global Variables
@@ -163,6 +164,24 @@ window.addEventListener('scroll', (event)=>{
 // Event lsitening to a button click to scroll to the top of the page
 scrollToTopButton.addEventListener('click', ()=>{
     window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
-})
+});
 
 
+//Collapsable Sections
+collapsableHeadings.forEach(collapsable => {
+    //adds event listener for a "click" event on each of the "h2" HTML elements
+    collapsable.addEventListener('click', ()=>{
+        //toggles the icon between the "+" and "-" displayed next to the h2 heading
+        collapsable.classList.toggle('activated');
+        /**
+         * graps the next sibling to the "h2" element, in this case, 
+         * the div with the "collapsables" class that containing 
+         * the two "p" elements as its children elements*/
+        let content = collapsable.nextElementSibling;
+        /**
+         * toggles the "hiddenCollapsable" element that allows to either 
+         * display or hide the "div" element containing the "p" elements
+         */
+        content.classList.toggle('hiddenCollapsable');
+    });
+});

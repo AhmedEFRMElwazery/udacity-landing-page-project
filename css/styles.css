@@ -38,6 +38,28 @@ h2 {
     font-family: 'Oxygen', Sans-Serif;
     font-size: 3em;
     color: #fff;
+    cursor: pointer;
+}
+
+h2:after{
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+
+}
+
+.activated:after {
+    content: "\2212";
+}
+
+.collapables{
+    overflow: hidden;
+}
+
+.hiddenCollapsable{
+    display: none;
 }
 
 p {
@@ -165,7 +187,6 @@ section {
 section:nth-of-type(even) .landing__container {
     margin-right: 0;
     margin-left: auto;
-    text-align: right; 
 }
 
 /* Background Circles */
