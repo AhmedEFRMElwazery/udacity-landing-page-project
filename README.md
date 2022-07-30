@@ -30,16 +30,16 @@ These files provide a skeleton for a static version of the Landing Page project.
 
 ## Tasks%20Status%20and%20Completion
 
-|  Feature                                    |   Condition  |     Status     |
-|---------------------------------------------|--------------|----------------|
-|  File Structure and Arcitecture             |   required   |  - [x] done    |
-|  HTML Structure                             |   required   |  - [x] done    |
-|  Navigation                                 |   required   |  - [x] done    |
-|  Section Active State                       |   required   |  - [x] done    |
-|  Comments                                   |   required   |  - [x] done    |
-|  Code Quality, Formating and Refactoring    |   required   |  - [x] done    |
-|  Hide Navigation bar when NOT Scrolling     |   Extra      |  - [x] done    |
-|  Responsive Layout                          |   Extra      |  - [x] done    |
-|  Scroll to the top Button                   |   Extra      |  - [x] done    |
-|  Collapsable Sections                       |   Extra      |  - [x] done    |
-|  Change Design/Content                      |   Extra      |  - [ ]         |
+|  Feature                                    |   Condition  |     Status             |
+|---------------------------------------------|--------------|------------------------|
+|  File Structure and Arcitecture             |   required   |  :heavy_check_mark:    |
+|  HTML Structure                             |   required   |  :heavy_check_mark:    |
+|  Navigation                                 |   required   |  :heavy_check_mark:    |
+|  Section Active State                       |   required   |  :heavy_check_mark:    |
+|  Comments                                   |   required   |  :heavy_check_mark:    |
+|  Code Quality, Formating and Refactoring    |   required   |  :heavy_check_mark:    |
+|  Hide Navigation bar when NOT Scrolling     |   Extra      |  :heavy_check_mark:    |
+|  Responsive Layout                          |   Extra      |  :heavy_check_mark:    |
+|  Scroll to the top Button                   |   Extra      |  :heavy_check_mark:    |
+|  Collapsable Sections                       |   Extra      |  :heavy_check_mark:    |
+|  Change Design/Content                      |   Extra      |  :x:                   |
