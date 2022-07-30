@@ -6,7 +6,7 @@
 
 [![egFWD - Future of Work is Digital](./assets/imgs/Egypt_fwd_logo-1.png)](https://egfwd.com/)
 
-<p style="text-align: center">(*Egypt Future Work is Digital*)</p>
+<p style="text-align: center;"><em> Egypt Future Work is Digital </em></p>
 
 *author*: **Ahmed E. F. R. Mohammed**
 
