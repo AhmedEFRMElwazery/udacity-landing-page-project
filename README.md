@@ -81,4 +81,3 @@ These files provide a skeleton for a static version of the Landing Page project.
 |  Responsive Layout                          |   Extra      |  :heavy_check_mark:    |
 |  Scroll to the top Button                   |   Extra      |  :heavy_check_mark:    |
 |  Collapsable Sections                       |   Extra      |  :heavy_check_mark:    |
-|  Change Design/Content                      |   Extra      |  :x:                   |
