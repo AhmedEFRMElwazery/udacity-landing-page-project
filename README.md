@@ -15,7 +15,8 @@
 
 
 * [Instructions](#instructions)
-* [Task Status and Completion](#Tasks%20Status%20and%20Completion)
+* [Features](#Features)
+* [Task-Status-and-Completion](#Tasks-Status-and-Completion)
 
 ## Instructions
 
@@ -28,7 +29,45 @@ This Langing page project is the first in a series of projects that are required
 
 These files provide a skeleton for a static version of the Landing Page project. The major taks is to convert it from a static project to an interactive one.
 
-## Tasks Status and Completion
+## Features
+
+* Responsive Design
+
+![Responsive Design](./assets/documentation/ResponsiveDesign.gif "A demo on responsive design")
+
+
+
+* Responsive Header with a hamburger-style menu
+
+![a hamburger-style menu](./assets/documentation/HamburgerMenu.gif "a demo on responsive header with a hamburger-style menu functionality")
+
+
+
+* Active Section functionality (Section backround gets a bit darker upon scrolling into view)
+
+![Active Section functionality](./assets/documentation/ActiveSection.gif "A demo on active Section functionality (Section backround gets a bit darker upon scrolling into view)")
+
+
+
+* Auto-hiding Header upon inactivity
+
+![Auto-hiding Header](./assets/documentation/AutoHidingHeader.gif "A demo on Auto-hiding Header upon inactivity")
+
+
+
+* Collapsable Sections
+
+![Collapsable Sections](./assets/documentation/CollapsableSections.gif "A demo on the implementation of Collapsable Sections functionality")
+
+
+
+* Scroll-to-the-top Button
+
+![Scroll-to-the-top Button](./assets/documentation/ScrollToTheTopButton.gif "A demo on the implementation of Scroll-to-the-top Buttony")
+
+
+
+## Tasks-Status-and-Completion
 
 |  Feature                                    |   Condition  |     Status             |
 |---------------------------------------------|--------------|------------------------|
