@@ -7,7 +7,7 @@
 
 ## sponsored and funded by [egFWD](https://egfwd.com/) 
 
-[![egFWD - Future of Work is Digital](./assets/imgs/Egypt_fwd_logo-1.png)](https://egfwd.com/](https://egfwd.com/specializtion/web-development-professional/)
+[![egFWD - Future of Work is Digital](./assets/imgs/Egypt_fwd_logo-1.png)](https://egfwd.com/specializtion/web-development-professional/)
 
 
 
